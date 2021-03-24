@@ -1,0 +1,17 @@
+{
+  "name": "library01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/main.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "loadsh": "0.0.4",
+    "webpack": "^5.27.2",
+    "webpack-cli": "^4.5.0"
+  }
+}
