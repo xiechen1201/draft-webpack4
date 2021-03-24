@@ -1,0 +1,12 @@
+{
+    "compilerOpitions": {
+        // 输出的路径（不写也可以）
+        "outDir": "./dist",
+        // 采用ESModule引入的方式
+        "module": "es6",
+        // 将 typescript 代码转换为 es5 的写法
+        "target": "es5",
+        // 容许typescript引入js文件
+        "allowJs": true
+    }
+}
