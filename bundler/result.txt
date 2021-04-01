@@ -1,0 +1,7 @@
+bundler
+├─bundler.js
+├─package-lock.json
+├─src
+|  ├─index.js
+|  ├─message.js
+|  └word.js
